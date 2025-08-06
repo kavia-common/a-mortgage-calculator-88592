@@ -45,3 +45,4 @@ nbdist/
 # Windows
 Thumbs.db
 ehthumbs.db
+.file_activity_report.json
